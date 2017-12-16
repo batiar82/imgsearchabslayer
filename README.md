@@ -1,2 +1,2 @@
-# FreeCodeCamp Url Shortener Microservice 
+# FreeCodeCamp Image search abstraction layer 
 
